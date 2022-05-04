@@ -1,4 +1,4 @@
-# ClassCitiiesToVisitUS
+# ClassCitiesToVisitUS
 Create class CitytoTravel, declare and define its class membees. setname, setrating, and setdescription for each object type class.
 
 
