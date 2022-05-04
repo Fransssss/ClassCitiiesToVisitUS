@@ -1,3 +1,7 @@
+// Title: Create class CitiestoVisitUS set adn output its data
+// PUrpose: create class of city and set and output data
+// Author: Fransiskus Agapa
+// Have fun - Enjoy the process - Practices make improvement
 
 #include <iostream>
 #include "CityToVisit.h"
